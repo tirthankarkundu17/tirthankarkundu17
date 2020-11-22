@@ -1,10 +1,10 @@
 ### Hi [Tirthankar Kundu](https://tirthankarkundu.ml) here 👋
 
 - :computer: My Website :[https://tirthankarkundu.ml](https://tirthankarkundu.ml)
-- :book: A avid learner who always learns new tehnology
+- :book: An avid learner who always learns new tehnology
 - :space_invader:  I'm interested in web development, mobile development, API integrations
 - 📫 Reach me at: tirthankar.consultancy@gmail.com
-- ⚡ Fun fact: It's easier to stay awake till 6AM then wake up at 6AM
+- ⚡ Fun fact: It's easier to stay awake till 6AM than wake up at 6AM
 - 🔭 Working on: MuleSoft, Java, Angular, Android
 
 
