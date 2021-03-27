@@ -1,6 +1,6 @@
 ### Hi [Tirthankar Kundu](https://tirthankarkundu.ml) here 👋
 
-- :computer: My Website :[https://tirthankarkundu.ml](https://tirthankarkundu.ml)
+- :computer: My Website :[https://tirthankar.bitmaskers.in/](https://tirthankar.bitmaskers.in/)
 - :book: An avid learner who always learns new tehnology
 - :space_invader:  I'm interested in web development, mobile development, API integrations
 - 📫 Reach me at: tirthankar.consultancy@gmail.com
