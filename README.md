@@ -10,7 +10,7 @@
 - 📫 Reach me at: tirthankar.consultancy@gmail.com
 - ⚡ Fun fact: It's easier to stay awake till 6AM than wake up at 6AM
 - 🔭 Working on: MuleSoft, Java, Angular, Android
-- 📱 Published [Google Play Store Apps](https://bit.ly/335VZB5/)
+- 📱 Published [Google Play Store Apps](https://play.google.com/store/apps/developer?id=Tirthankar+Kundu)
 
 
 [![Tirthankar's github stats](https://github-readme-stats.vercel.app/api?username=tirthankarkundu17)](https://github.com/tirthankarkundu17/github-readme-stats)
